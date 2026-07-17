@@ -1,4 +1,4 @@
-# Java Programs ☕
+# Java Programs 
 
 Welcome to my Java Programs repository.
 
@@ -38,4 +38,4 @@ This repository contains Java programs that I have written while learning Java, 
 
 **Chinmayi M S**
 
-⭐ If you find this repository useful, feel free to explore it.
+ If you find this repository useful, feel free to explore it.
